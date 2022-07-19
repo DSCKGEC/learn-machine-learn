@@ -1,0 +1,6 @@
+------------THIS IS THE DATASET DIRECTORY------------
+
+Please maintain all your datasets in this folder ONLY!
+Incase you want to work with a different dataset just change the name of the dataset in the main python-notebook file
+All the dataset are present in .csv format
+They can open using any spreadsheet software like MS-Excel, Google Sheets, Numbers in MacOS
