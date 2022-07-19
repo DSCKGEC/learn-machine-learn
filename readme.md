@@ -1,9 +1,9 @@
 # Submission or project name
 
-[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/project-template/pulls)
+[![Contributors](https://img.shields.io/github/contributors/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/learn-machine-learn)](https://github.com/dsckgec/learn-machine-learn/pulls)
 
 
-A basic GitHub repository template for initializing open source projects on a single click.
+A one-stop repository for new-comers in Machine Learning and A.I.
 
 ## Contents
 
