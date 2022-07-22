@@ -116,7 +116,7 @@ There are two ways of running the code.
       - Start Editing.
 ## Preview Notebooks
   `Notebook will be opened in Google Colab`
-- [Head to here for the `Cancer_prediction` preview](https://colab.research.google.com/drive/1_oM3NxjoNlj-yyrvXyu1FtG4-6iv1mEZ?usp=sharing)
+- [Head to here for the `Cancer_prediction` preview](https://colab.research.google.com/drive/1__PCTBBQ5l07YW56s_5cV0RbcmI3Ch99?usp=sharing)
 - [Head to here for the `L&T_Stock_Price_prediction` preview](https://colab.research.google.com/drive/1HYEpZ8_t4E-zKokbEyi_egvABJaWeL_G?usp=sharing)
 
 ## Built with
